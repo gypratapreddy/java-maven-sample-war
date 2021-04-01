@@ -11,4 +11,3 @@ phases:
 artifacts:
   files:
     - target/order-service.war
-  discard-paths: yes
