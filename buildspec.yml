@@ -10,4 +10,4 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/Example.war
+    - target/Example-0.0.1-SNAPSHOT.war
